@@ -1,3 +1,15 @@
 [submodule "other 1337 projects/get_next_line"]
 	path = other 1337 projects/get_next_line
 	url = https://github.com/YiiSauce/get_next_line
+[submodule "other 1337 projects/ft_printf"]
+	path = other 1337 projects/ft_printf
+	url = https://github.com/YiiSauce/ft_printf
+[submodule "other 1337 projects/Minitalk"]
+	path = other 1337 projects/Minitalk
+	url = https://github.com/YiiSauce/Minitalk
+[submodule "other 1337 projects/Fract-ol"]
+	path = other 1337 projects/Fract-ol
+	url = https://github.com/YiiSauce/Fract-ol
+[submodule "other 1337 projects/Philosophers"]
+	path = other 1337 projects/Philosophers
+	url = https://github.com/YiiSauce/Philosophers
